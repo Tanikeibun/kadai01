@@ -6,6 +6,7 @@ public class HelloGitHub {
 		System.out.println("Hello GitHub");
 		System.out.println("Hello GitHub1");
 		System.out.println("Hello GitHub1");
+		System.out.println("Hello GitHub2");
 	}
 
 }
